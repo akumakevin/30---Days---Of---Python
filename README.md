@@ -54,17 +54,17 @@ jupyter notebook
 
 
 
-## 📂 Repository Structure
+📂 Repository Structure
 
 ```
 📁 30-Days-Of-Python
-│── 📝 30_DAYS_OF_PYTHON.ipynb
+│── 📝 30 DAYS OF PYTHON.ipynb
 │── 📄 README.md
 ```
 
 
 
-## 🚀 How to Use This Notebook
+🚀 How to Use This Notebook
 
 * You can read through each day sequentially
 * Run the code cells to practice
@@ -73,19 +73,18 @@ jupyter notebook
 
 
 
-## 🌱 Why I Did This Project
+🌱 Why I Did This Project
 
 I am committed to strengthening my programming skills and building a strong base in Python for data science, software development, and future academic work. This challenge allowed me to practice consistently and develop confidence in writing code.
 
 
 
-## ⭐ Acknowledgement
+⭐ Acknowledgement
 
 Inspired by **Asabeneh Yetayeh’s** *30 Days of Python* open-source curriculum.
 
 
-
-## 📌 License
+📌 License
 
 This repository has an open educational purpose. You may fork, use, or modify the notebook for learning.
 
