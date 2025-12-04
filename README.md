@@ -1,6 +1,6 @@
 
 
-# 📘 30 Days of Python Learning Journey
+📘 30 Days of Python Learning Journey
 
 Welcome to my **30 Days of Python** project!- College Level 
 
@@ -8,7 +8,7 @@ This repository contains my personal learning journey as I study and practice Py
 
 
 
-## 🎯 Project Goal
+🎯 Project Goal
 
 The aim of this challenge is to:
 
@@ -20,11 +20,11 @@ The aim of this challenge is to:
 
 
 
-## 🧠 What’s Included
+🧠 What’s Included
 
 All **30 days** are compiled in a single Jupyter notebook:
 
-### ✔️ Day-by-Day Topics Covered
+✔️ Day-by-Day Topics Covered
 
 * **Day 1–3:** Variables, data types, basic operations
 * **Day 4–7:** Strings, lists, tuples, sets, dictionaries
@@ -38,7 +38,7 @@ Each day contains **examples, explanations, practice exercises, and solutions**.
 
 
 
-## 🛠️ Requirements
+🛠️ Requirements
 
 To run the notebook, install:
 
