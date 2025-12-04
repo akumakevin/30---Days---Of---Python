@@ -1,6 +1,6 @@
 
 
-# 📘 30 Days of Python — Learning Journey
+# 📘 30 Days of Python Learning Journey
 
 Welcome to my **30 Days of Python** project!- College Level 
 
